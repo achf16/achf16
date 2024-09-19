@@ -14,14 +14,22 @@
 
 ## 💼 Experience
 
-### Telematics Specialist at ETECSA, Cuba (Sept 2023 - July 2024)
-- Managed the installation and integration of Huawei network equipment (SDH, PDH, DWDM, fiber optics) to ensure network connectivity.
+### Telematics Specialist in the Telecommunications Enterprise of Cuba, ETECSA 
+<i>Network Integration Department</i><br>
+<i>Havana - Cuba</i>
+<i>(2023 - 2024)</i>
+- Planning and managed the installation and integration of Huawei network equipment (SDH, PDH, DWDM, fiber optics) to ensure network connectivity.
 - Collaborated with cross-functional teams (energy, operations, mounting) to adhere to industry standards and safety regulations.
 - Created AutoCAD floor plans and equipment layouts to ensure installations met project specifications.
 
-### Researcher – SPI-Ethernet Communication Interface (Sept 2023 - July 2024)
-- Developed a high-speed SPI-Ethernet communication interface between radar systems and PCs using Xilinx FPGA.
-- Presented this project at the 2023 Annual Conference of Informatics, Multimedia, and Telecommunications Technologies (ACIMUTT).
+### Researcher – Implementation of FPGA-PC Communication Interface based on the W5500 SPI-Ethernet Converter
+<i>Havana - Cuba</i>
+<i>2023</i>
+- Conducted research on the development of a SPI-Ethernet communication interface between radar and a PC, enabling long-distance, high-speed data transmission.
+- Implemented both hardware(SoC on a Xilinx FPGA) and software components of the communication interface, ensuring correct operation and functionality.
+- Validated the interface, confirming that it met all the proposed objectives and demonstrating its feasibility and effectiveness.
+- This work was presented as my thesis for the academic title of Telecommunications and Electronics Engineer.
+- I had the privilege of participating with this work in the Annual Conference of Informatics, Multimedia, and Telecommunications Technologies (**ACIMUTT**) 2023, a collaborative event between CUJAE, LACETEL, **Ghent University, and Vliruos**.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achf16&show_icons=true&locale=en&layout=compact" alt="achf16" /></p>
 
