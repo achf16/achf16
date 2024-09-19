@@ -12,7 +12,16 @@
 - LinkedIn: [Abel Chávez Frutos](https://www.linkedin.com/in/abel-ch%C3%A1vez-frutos-4b9476216)
 - Email: achf16@gmail.com
 
+## 💼 Experience
 
+### Telematics Specialist at ETECSA, Cuba (Sept 2023 - July 2024)
+- Managed the installation and integration of Huawei network equipment (SDH, PDH, DWDM, fiber optics) to ensure network connectivity.
+- Collaborated with cross-functional teams (energy, operations, mounting) to adhere to industry standards and safety regulations.
+- Created AutoCAD floor plans and equipment layouts to ensure installations met project specifications.
+
+### Researcher – SPI-Ethernet Communication Interface (Sept 2023 - July 2024)
+- Developed a high-speed SPI-Ethernet communication interface between radar systems and PCs using Xilinx FPGA.
+- Presented this project at the 2023 Annual Conference of Informatics, Multimedia, and Telecommunications Technologies (ACIMUTT).
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achf16&show_icons=true&locale=en&layout=compact" alt="achf16" /></p>
 
