@@ -1,16 +1,8 @@
-<h1 align="center">
-    Hello, I'm Abel de Jesús Chávez Frutos
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-<p align="center">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&random=false&width=435&lines=Backend+Dev+%7C+NodeJs+;Typescript+%7C+Linux+Dev+;Tech+Enthusiast" alt="Typing SVG" />
-</p>
+- 🌱 I’m currently learning **HTML/CSS**
 
-- 🌱 I’m currently learning **Python, NodeJS, Typescript, Sequelize, Databases.**
-
-- 💬 Ask me about **Physics, Linux, Tech**
-
-- 📫 How to reach me **elieser.santiesteban.1996@gmail.com**
+🔗 **Let's connect!**
+- LinkedIn: [Abel Chávez Frutos](https://www.linkedin.com/in/abel-ch%C3%A1vez-frutos-4b9476216)
+- Email: achf16@gmail.com
 
 <h3>Tech Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px></h3>
 <p align="center">
