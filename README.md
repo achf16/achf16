@@ -30,7 +30,7 @@
 - Validated the interface, confirming that it met all the proposed objectives and demonstrating its feasibility and effectiveness.
 - This work was presented as my thesis for the academic title of Telecommunications and Electronics Engineer.
 - I had the privilege of participating with this work in the Annual Conference of Informatics, Multimedia, and Telecommunications Technologies (**ACIMUTT**) 2023, a collaborative event between CUJAE, LACETEL, **Ghent University, and Vliruos**.
-
+<br><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achf16&show_icons=true&locale=en&layout=compact" alt="achf16" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achf16&show_icons=true&locale=en" alt="achf16" /></p>
